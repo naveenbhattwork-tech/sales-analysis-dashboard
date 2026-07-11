@@ -1,5 +1,7 @@
 # Sales Analysis Dashboard
 
+![Sales Performance Dashboard](dashboard-preview.png)
+
 ## Project Overview
 
 This project analyzes 6,500 synthetic sales transactions from 2025 to
@@ -49,27 +51,24 @@ interpretation, and dashboard creation.
 
 ## Dashboard
 
-The final dashboard contains four KPI cards:
+The dashboard contains four KPI cards:
 
 -   Total Revenue: ₹360.95M
 -   Top Product: Laptop Pro 14
 -   Top Region: East
 -   Top Salesperson: Arjun Rao
 
-The dashboard also contains:
-
--   Monthly Revenue Trend
--   Revenue by Region
--   Product Revenue
--   Revenue by Salesperson
+It also includes monthly, regional, product, and salesperson revenue
+views.
 
 ## Project Structure
 
--   data/ --- source sales dataset and SQLite database
--   sql/ --- SQL analysis queries
--   dashboard/ --- final Excel dashboard
--   README.md --- project documentation
--   Business_Insights.txt --- business findings and interpretation
+-   `Data/` --- source sales dataset and SQLite database
+-   `SQL/` --- SQL analysis queries
+-   `Dashboard/` --- final Excel dashboard
+-   `dashboard-preview.png` --- dashboard preview
+-   `README.md` --- project documentation
+-   `Business_Insights.txt` --- business findings and interpretation
 
 ## What I Learned
 
