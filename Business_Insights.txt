@@ -1,0 +1,42 @@
+BUSINESS INSIGHTS — SALES ANALYSIS DASHBOARD 2025
+
+1.  PRODUCT REVENUE CONCENTRATION Laptop Pro 14 generated the highest
+    product revenue at approximately ₹100.03 million. Laptop Air 13 and
+    Smartphone X were also major revenue contributors. This indicates
+    that high-value electronics drive a large share of company revenue.
+
+2.  REVENUE AND UNIT SALES ARE DIFFERENT PERFORMANCE METRICS USB-C Hub
+    sold the highest number of units at 1,495, but Laptop Pro 14
+    generated the highest revenue. Management should not use unit volume
+    alone to judge product financial performance because lower-priced
+    products can lead in volume without leading in revenue.
+
+3.  REGIONAL PERFORMANCE IS RELATIVELY CLOSE The East region generated
+    the highest revenue at ₹76.89 million. However, revenue is
+    distributed across all five regions rather than being dominated by
+    one region. The company should investigate the sales practices and
+    customer mix in the East while continuing to develop
+    lower-performing regions.
+
+4.  SALESPERSON PERFORMANCE Arjun Rao generated the highest salesperson
+    revenue at ₹54.37 million. The gap between Arjun Rao and the
+    remaining salespeople should be investigated to determine whether
+    product mix, customer segment, region, or sales practices explain
+    the difference.
+
+5.  MONTHLY REVENUE IS VOLATILE Monthly revenue fluctuated
+    throughout 2025. May recorded the highest revenue at ₹37.39 million,
+    while September recorded the lowest at ₹25.08 million. There is no
+    consistent annual growth or decline pattern. Management should
+    compare product mix, order volume, discounts, and customer segments
+    between high- and low-performing months before making a causal
+    conclusion.
+
+FINAL MANAGEMENT SUMMARY
+
+The business generated approximately ₹360.95 million in total revenue
+during 2025. High-value electronics are the strongest revenue drivers,
+while the highest-volume product is a lower-priced accessory. East is
+the leading revenue region and Arjun Rao is the top salesperson. Monthly
+revenue is inconsistent, so further analysis should focus on the factors
+behind the May peak and September decline.
